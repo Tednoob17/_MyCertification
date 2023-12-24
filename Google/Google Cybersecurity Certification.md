@@ -109,3 +109,21 @@
 
 10. Fill in  the blank: fe80::ab12:cd34:ef56:0023:2345 is an example of an accurate <----> address .
 	IPV6
+
+
+## Course 4 - Week 1 (Tools of the trade Linux and SQL)
+
+1. Which of the following statements accurately describe operating systems ? Select all that apply.
+	- Operating systems are the interfaces between computer hardware and user .
+	- Computers, smartphones, and tablets all have operating systems.
+	- Operating systems are responsible for making computers run efficiently
+
+
+2. Which of the following operating systems were designed to run on mobile devices? Select two answers.
+	- IOS
+	- Android 
+
+3. What does BIOS load in order to start an operating system ?
+	The bootloader
+
+4. 
