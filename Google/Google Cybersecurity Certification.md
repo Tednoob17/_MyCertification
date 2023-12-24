@@ -1,5 +1,5 @@
 ## Course 1 - Week 1 (Foundations of Cybersecurity)
-### Weekly Challenge 1 
+
 
 1. Fill in the blank: The purpose of <------> is to protect networks,devices,peoples and data from unauthorized access or criminal exploitation . 
 	Cybersecurity
@@ -36,7 +36,7 @@
 
 
 
-## Course 2 - Week 1 (Play it Safe Manage Security Risk)
+## Course 2 - Week 1 (Play it Safe Manage,  Security Risk)
 
 
 1. Fill in the blank : Security posture refers to an organization's ability to react to change and manage its defense of <-----> and critical assets
@@ -111,7 +111,7 @@
 	IPV6
 
 
-## Course 4 - Week 1 (Tools of the trade Linux and SQL)
+## Course 4 - Week 1 (Tools of the trade, Linux and SQL)
 
 1. Which of the following statements accurately describe operating systems ? Select all that apply.
 	- Operating systems are the interfaces between computer hardware and user .
@@ -194,3 +194,41 @@
 
 10. Fill in the blank: CSF profiles provide insights into the <----> state of a security plan.
 	Current
+
+
+## Course 6 - Week 1 (Sound the Alarm,  Detection)
+
+1. Which of the folowing statements describe security incidents and events?
+	All security incidents are events, but not all events are security incidents.
+
+2. What process is used to provide a blueprint for effective incident response ?
+	The NIST Incident Response Lifecycle
+
+3. Which of the following are phases of the NIST Incident Response Lifecycle? Select three answers.
+	- Containment, Eradiction,and Recovery
+	- Detection and analysis
+	- Preparation
+
+
+4. What is a computer security incident response team (CSIRT)
+	A specialized group of security professionals who are trained in incident management and response
+
+
+5. What are some common elements contained in incident response plans ? Select two answers.
+	- Incident response procedures
+	- System information
+
+6. What are investigative tools used for ?
+	Analyzing events
+
+7. What are examples of tools used for documentation? Select two answers .
+	- Audio recorders
+	- Cameras
+
+8. Fill in the blank: An intrusion detection system (IDS) <----> system activity and alerts on possible intrusions.
+	monitors
+
+9. What is an example of a workflow that can be automated through security orchestration, automation, and response (SOAR)?
+	The analysis and response to a security incident
+
+10. Fill in the blank: 
