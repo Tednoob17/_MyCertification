@@ -71,6 +71,7 @@
 	Identity and access management 
 
 10. Which domain involves conducting investigations and implementing preventive measures ?
+	Security operations
 
 
 
