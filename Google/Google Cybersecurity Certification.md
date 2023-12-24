@@ -36,6 +36,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*  * * 
+
 ## Course 2 - Week 1 (Play it Safe Manage,  Security Risk)
 
 
@@ -74,6 +99,29 @@
 10. In the Risk Management Framework (RMF), which step involves knowning how current systems are operating and if they support security goals ?
 	Monitor
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*   * *
+
+
 ## Course 3 - Week 1 (Connect and Protect Network and Network Security)
 
 1. Fill in the blank: A <----> is a network that spans a large geographic area, like a city, state, or country.
@@ -109,6 +157,24 @@
 
 10. Fill in  the blank: fe80::ab12:cd34:ef56:0023:2345 is an example of an accurate <----> address .
 	IPV6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*  *   *
 
 
 ## Course 4 - Week 1 (Tools of the trade, Linux and SQL)
@@ -150,6 +216,30 @@
 
 9. Fill in the blank: On a computer,the <----> handles resources and memory management . 
 	Operating System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*  *  * 
 
 
 ## Course 5 - Week 1 (Assets,Threats, and Vulnerabilities)
@@ -196,6 +286,33 @@
 	Current
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*  *  * 
+
+
+
 ## Course 6 - Week 1 (Sound the Alarm,  Detection)
 
 1. Which of the folowing statements describe security incidents and events?
@@ -234,6 +351,23 @@
 10. Fill in the blank: During the <----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
 	data collection
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
 
 
 
@@ -290,4 +424,7 @@ if the value in the attempts variable is `3` , what will Python do ?
 
 	Output the message "try again"
 
-1. 
+9. What iterative statement should you use if you use want to print the number `1` , `2`, `3` ?
+	`for i in [1, 2, 3]`
+
+
