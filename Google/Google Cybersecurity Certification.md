@@ -49,9 +49,13 @@
 3. Fill in the blank: Social engineering is a manipulation technique that exploits <----> error to gain access to private information . 
 	human
 
-4. 
+4. A security professional conducts internal training to teach their coworkwrs how to identify a social engineering attack. What types of security issues are they trying to avoid ? Select all that apply .
+	- Employees inadvertently revealing sensitive date
+	- Malicious software being deployed
+	- Phishing attacks
 
 
+5.  
 
 
 
