@@ -268,4 +268,12 @@ count = count + 1
 6. What code can you use to return the data type of the value stored in the `input` variable ?
 	`type (input)`
 
-7. You want to check the string stored in an `update_status` variable . When it contains a value of `"incomplete"`, you want to print a `"schedule update"` message .Right now, this 
+7. You want to check the string stored in an `update_status` variable . When it contains a value of `"incomplete"`, you want to print a `"schedule update"` message .Right now, this conditional statement is not correct.What are the problems with conditional statement ?Select all that apply .
+```python3
+if update_status != "incomplete" 
+	print("schedule update")
+```
+
+- A colon (`:`) is missing at the end of the conditional header. 
+- The operator should not be `!=`  It should be `==` .
+8. 
