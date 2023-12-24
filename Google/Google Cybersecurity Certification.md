@@ -67,9 +67,10 @@
 8. Which domain involves conducting, collecting, and analyzing data as well as conducting security audits to monitor for risks, threats, and vulnerabilities ?
 	Security assessments and testing
 
-9. 
+9.  A security professional is setting up access keycards for new employees. Which domain does this scenario describe ?
+	Identity and access management 
 
-
+10. Which domain involves conducting investigations and implementing preventive measures ?
 
 
 
