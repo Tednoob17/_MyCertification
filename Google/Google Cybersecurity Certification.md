@@ -88,5 +88,26 @@
 4. A security professional is investigating the benefits and drawbacks of using a cloud service provider (CSP). What are some reasons why the security professional might choose to use a CSP in their work? Select all that apply.
 	- CSP remote servers allow web applications to be accessed from any location . 
 	- A CSP offers processing power that is only paid for needed
+	- A SCP provides business analytics to monitor web traffic and sales . 
 
-5. 
+5. What information is included in the body if data packet ?
+	The message to be transmitted to the receiving device
+
+6. What are the three main categories of services that CSPs provide ? Select all that apply.
+	- Software as a service (SaaS)
+	- Infrastructure as a service (IaaS)
+	- Platform as a service (PaaS)
+
+7. A security analyst is accessing a webpage that uses HTTPS. The analyst scans the network to see what ports are active. Which port  number is used for HTTPS webpages ?
+	443
+
+8. A security analyst uses the TCP/IP model to visualize how data is organized and transmitted across their company's network. The analyst inspects the transmission of data pakets, such as the direct data its destination . Which layer are they investig  ating ?
+	Layer 1, network access
+
+9. Which of the following addresses is an accurate IPV4 address ?
+	192.168.0.2
+
+10. Fill in  the blank: fe80::ab12:cd34:ef56:0023:2345 is an example of an accurate <----> address .
+	IPV6
+
+11. 
