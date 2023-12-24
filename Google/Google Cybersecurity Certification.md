@@ -192,4 +192,5 @@
 9. What NIST Cybersecurity Framework (CSF) tier is an indication that compliance is being performed at an examplary standard ?
 	Level-4
 
-10. 
+10. Fill in the blank: CSF profiles provide insights into the <----> state of a security plan.
+	Current
