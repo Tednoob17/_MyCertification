@@ -36,16 +36,14 @@
 
 
 
+## Course 1 - Week 2 (Foundations of Cybersecurity)
 
 
 
+1. What is the term for software that is designed to harm devices or networks ? 
+	Malware
 
-
-
-
-
-
-
+2. 
 
 
 
