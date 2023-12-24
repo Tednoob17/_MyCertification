@@ -126,4 +126,29 @@
 3. What does BIOS load in order to start an operating system ?
 	The bootloader
 
-4. 
+4. Fill in the blank: When someone uses a computer application, the operating system interprets the user's request and directs then to the appropriate <---->
+	Components of the computers hardware
+
+5. What appens when you use applications on your computer? Select three answers . 
+	- The aplications sends your request to the operating system.
+	- The operating system interprets a request from the application and directs its to the appropriate components of the computer's hardware .
+	- The hardware sends informations back to the operating system, which is sent back to the application.
+
+
+6. Which of the following are key types of user interfaces ? Select two answers
+	- Command line
+	- Graphical
+
+
+7. Which of the following statements correctly describe GUIs and CLIs ? Select three answers.
+	- A CLI is a text-based user interface. 
+	- A CLI commands execute tasks, such as moving a file to new folder.
+	- GUI icons help user to nanage different tasks on a computer
+
+8. A security team suspects that an attacker has compromised their system. They examine the commands entered by the attacker's to determine whether they can trace the attacker's actions to help them resolve the incident describe ?
+	Reviewing a history file in a CLI.
+
+9. Fill in the blank: On a computer,the <----> handles resources and memory management . 
+	Operating System
+
+
