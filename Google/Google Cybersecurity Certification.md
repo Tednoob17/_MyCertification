@@ -55,7 +55,10 @@
 	- Phishing attacks
 
 
-5.  
+5. A security professional s researching compliance and the law in order to define security goals.Which domain does this scenario describe ?
+	Security and risk management
+
+6. 
 
 
 
