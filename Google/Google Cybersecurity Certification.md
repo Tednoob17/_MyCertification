@@ -36,7 +36,7 @@
 
 
 
-## Course 1 - Week 2 (Play it Safe Manage Security Risk)
+## Course 2 - Week 1 (Play it Safe Manage Security Risk)
 
 
 1. Fill in the blank : Security posture refers to an organization's ability to react to change and manage its defense of <-----> and critical assets
@@ -68,4 +68,25 @@
 	- If compromised, a medium-risk asset may cause some damage to an organization's finances
 	- Website content or published research data are examples of low security risk assets 
 
-9. A business experiences  
+9. A business experiences an attack . As a resut sensitive personally identifiable information (SPII) is leaked through the dark web. What type of consequence does this secenario describe ?
+	Identity theft
+
+10. In the Risk Management Framework (RMF), which step involves knowning how current systems are operating and if they support security goals ?
+	Monitor
+
+## Course 3 - Week 1 (Connect and Protect Network and Network Security)
+
+1. Fill in the blank: A <----> is a network that spans a large geographic area, like a city, state, or country.
+	WAN
+
+  2. A <-----> broadcasts information to every device on the network.
+	  hub
+
+3. A <---> is a device that makes connections between specific devices on a network by sending and receiving data between them .
+	switch
+
+4. A security professional is investigating the benefits and drawbacks of using a cloud service provider (CSP). What are some reasons why the security professional might choose to use a CSP in their work? Select all that apply.
+	- CSP remote servers allow web applications to be accessed from any location . 
+	- A CSP offers processing power that is only paid for needed
+
+5. 
