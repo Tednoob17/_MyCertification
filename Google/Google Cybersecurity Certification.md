@@ -109,5 +109,3 @@
 
 10. Fill in  the blank: fe80::ab12:cd34:ef56:0023:2345 is an example of an accurate <----> address .
 	IPV6
-
-11. 
