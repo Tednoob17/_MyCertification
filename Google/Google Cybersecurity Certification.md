@@ -61,7 +61,13 @@
 6. A security professional is optimizing by ensuring that effective tools, systems, and processes are in place. Which domain does this scenario describe ?
 	Security architecture and  engineering
 
-7. 
+7. Which domain involves securing digital and physical assets, as well as managing the storage, maintenance, retention, and destruction of data ?
+	Assets security
+
+8. Which domain involves conducting, collecting, and analyzing data as well as conducting security audits to monitor for risks, threats, and vulnerabilities ?
+	Security assessments and testing
+
+9. 
 
 
 
