@@ -265,4 +265,7 @@ count = count + 1
 5. Which line of code assigns the string "dtanaka" to variable called `username` ?
 	`username = "dtanaka"` 
 
-6. What
+6. What code can you use to return the data type of the value stored in the `input` variable ?
+	`type (input)`
+
+7. You want to check the string stored in an `update_status` variable . When it contains a value of `"incomplete"`, you want to print a `"schedule update"` message .Right now, this 
