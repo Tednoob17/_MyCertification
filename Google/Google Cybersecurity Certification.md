@@ -152,3 +152,16 @@
 	Operating System
 
 
+## Course 5 - Week 1 (Assets,Threats, and Vulnerabilities)
+
+1. An attacker spreads malicious software within an organization, which executes unauthorized actions on the organizations's systems.What does this scenario describe ?
+	Threat
+
+2. Fill in the blank: A misconfigured firewall is an example of a security <----> 
+	Vulnerability
+
+3. Which of the following statements correctly describe security asset management? Select two answers . 
+	- It helps identify risks
+	- It uncovers gaps in security
+
+4. 
