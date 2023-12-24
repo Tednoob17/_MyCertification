@@ -276,4 +276,18 @@ if update_status != "incomplete"
 
 - A colon (`:`) is missing at the end of the conditional header. 
 - The operator should not be `!=`  It should be `==` .
-8. 
+
+
+8. You wrote the following code : 
+```python3
+if attempts >= 5:
+	print("locked")
+else:
+	print("try again")
+```
+
+if the value in the attempts variable is `3` , what will Python do ?
+
+	Output the message "try again"
+
+1. 
