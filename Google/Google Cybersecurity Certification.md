@@ -43,7 +43,13 @@
 1. What is the term for software that is designed to harm devices or networks ? 
 	Malware
 
-2. 
+2. What historical event used a malware attachment to steal user information and passwords ?
+	LoveLetter attack
+
+3. Fill in the blank: Social engineering is a manipulation technique that exploits <----> error to gain access to private information . 
+	human
+
+4. 
 
 
 
