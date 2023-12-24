@@ -164,4 +164,32 @@
 	- It helps identify risks
 	- It uncovers gaps in security
 
-4. 
+4. An employee is asked to email customers and request that they complete a satisfaction survey. The employee must be given access to confidential information in the company database to conduct the survey.What types of confidential customer information should the employee be able to access from the company's database to do their job ? Select two answers.
+	- E-mail addresses
+	- Customer names
+
+5. What is an example of restricted information ? Select all thst apply .
+	- Intellectual propriety 
+	- Health information
+	- Cardholder data
+
+
+6. Which of the following can be prevented with effective information security? Select all that apply.
+	- Repudiation damage
+	- Identity theft
+	- Financial loss
+
+
+7. What is an example of digital data at rest ? Select two answers.
+	- Files on a hard drive
+	- Email messages in a inbox 
+
+8.  What are some key benefits of a security plan? Select three answers . 
+	- Define consistent policies that address what's being protected and why .
+	- Outline clear procedures that describe how to protect assets ans reat to threats .
+	- Establish a shared set of standards for protecting assets . 
+
+9. What NIST Cybersecurity Framework (CSF) tier is an indication that compliance is being performed at an examplary standard ?
+	Level-4
+
+10. 
