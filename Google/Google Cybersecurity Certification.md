@@ -231,4 +231,38 @@
 9. What is an example of a workflow that can be automated through security orchestration, automation, and response (SOAR)?
 	The analysis and response to a security incident
 
-10. Fill in the blank: 
+10. Fill in the blank: During the <----> step of the SIEM process, the collected raw data is transformed to create log record consistency.
+	data collection
+
+
+
+
+## Course 7 - Week1 Automate Cyber security Tasks with python)
+
+1. Fill in the blank: Automation is <---->
+	The use of technology to reduce human and manual effort to perform common and repetitive tasks
+
+
+2. The purpose of the following code is to print an "Attempting connection" message while the value of count variable is less than `10` .The value of count should increase by `1` with each iteration of the loop.What is wrong with the code ? Select all that apply.
+```python3
+count = 1
+while count < 10:
+print("Attempting connection")
+count = count + 1
+```
+
+- The line with `count = count + 1` is not indented
+- The line with `print("Attempting connection")`  is not indented
+
+3. Which of these are string data ? Select all that apply .
+	- "100"
+	- "user1"
+
+4. What are possible values for the boolean data type ? Select all that apply.
+	- False
+	- True
+
+5. Which line of code assigns the string "dtanaka" to variable called `username` ?
+	`username = "dtanaka"` 
+
+6. What
