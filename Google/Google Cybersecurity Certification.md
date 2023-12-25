@@ -104,7 +104,10 @@
 7. Fill in the blank: As a security professional, you monitor the potential threats associated with <------> because they often access to sensitive information, know where to find it, and may have malicious intent.
 	disgruntled employees
 
-8. 
+8. A security professional overhears two employees discussing an exciting new product that has not been announced to the public.The security professional chooses to follow company guidelines with regards to confidentiality and does not share the information about the new product with friends.Which concept does this scenario describe ?
+
+	Security ethics
+
 
 *  * * 
 
