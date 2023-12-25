@@ -83,9 +83,24 @@
 	- Aligning security business goals
 
 
-2. 
+2.Which of the following are core components of security frameworks ? Select two answers .
+	- Implementing security processes
+	- Monitoring and communicating results
+
+3. Fill in the blank: A security professional has been tasked with implementing strict password policies on workstations to reduce the risk of password theft.This is an example of <---->.
+	security controls
+
+4. You are helping your security team consider risk when setting up a new software system. Using the CIA triad, you focus on confidentiality, availability, and what else ?
+	Integrity
+
+5. Fill in the blank: A key aspect of the CIA triad is ensuring that data is correct, <---->, and reliable.
+	authentic
 
 
+6. Which of the following statements accurately describe the NIST CSF ? Select all that apply.
+
+
+7. 
 
 *  * * 
 
