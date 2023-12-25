@@ -151,11 +151,13 @@
 	It relies on a command line
 
 8. Fill in the blank: A database is a <----> of organized data stored a computer system.
-	
+	Collection
 
 
+9.  What are some key benefits of using Python to perform security tasks ? Select all that apply.
+	- It simplifies repetitive tasks
 
-9. 
+10. 
 
 
 
