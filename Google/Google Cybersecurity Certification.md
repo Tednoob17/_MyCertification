@@ -98,7 +98,8 @@
 
 
 6. Which of the following statements accurately describe the NIST CSF ? Select all that apply.
-
+	- it's purpose is to help manage cybersecurity risk.
+	- It consist is to help manage cybersecurity, and best practices.
 
 7. 
 
