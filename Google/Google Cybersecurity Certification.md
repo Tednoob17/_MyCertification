@@ -131,7 +131,7 @@
 	- Performing incident analysis
 
 3. Why might a security professional choose Google Chronicle to store security data for later
-	
+	It's cloud-native, which means it delivers nwe features quickly.
 
 
 4. 
