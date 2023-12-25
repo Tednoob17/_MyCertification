@@ -1,3 +1,4 @@
+# 💫
 ## Course 1 - Week 1 (Foundations of Cybersecurity)
 
 
@@ -35,7 +36,7 @@
 	- An example of SPII is someone financial information .
 
 
-
+# 💫
 ## Course 1 - Week 2 (Foundations of Cybersecurity)
 
 
@@ -74,7 +75,7 @@
 	Security operations
 
 
-
+# 💫
 ## Course 1 - Week 3 (Foundations of Cybersecurity)
 
 1. What are some of the primary purposes of security frameworks ? Select three answers .
@@ -111,9 +112,31 @@
 9. Fill in the blank: The ethical of <----> involves safeguarding an organization's human resources records that contain personal details about employees.
 	privacy protection
 
-10. 
-*  * * 
+10. You are security professional working for a state motor vehicle agency that stores drivers national identification numbers and banking information. Which ethical principle involves adhering to rules that intended to protect these types of data ?
+	Laws 
 
+
+# 💫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*  * * 
+# 🌵
 ## Course 2 - Week 1 (Play it Safe Manage,  Security Risk)
 
 
@@ -173,7 +196,7 @@
 
 
 *   * *
-
+# 🍥
 
 ## Course 3 - Week 1 (Connect and Protect Network and Network Security)
 
@@ -229,7 +252,7 @@
 
 *  *   *
 
-
+# 🌄
 ## Course 4 - Week 1 (Tools of the trade, Linux and SQL)
 
 1. Which of the following statements accurately describe operating systems ? Select all that apply.
@@ -294,7 +317,7 @@
 
 *  *  * 
 
-
+# 🎑
 ## Course 5 - Week 1 (Assets,Threats, and Vulnerabilities)
 
 1. An attacker spreads malicious software within an organization, which executes unauthorized actions on the organizations's systems.What does this scenario describe ?
@@ -365,7 +388,7 @@
 *  *  * 
 
 
-
+# 🎩
 ## Course 6 - Week 1 (Sound the Alarm,  Detection)
 
 1. Which of the folowing statements describe security incidents and events?
@@ -423,7 +446,7 @@
 * * *
 
 
-
+# ⚜️
 ## Course 7 - Week1 Automate Cyber security Tasks with python)
 
 1. Fill in the blank: Automation is <---->
