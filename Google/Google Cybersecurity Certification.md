@@ -155,7 +155,9 @@
 
 
 9.  What are some key benefits of using Python to perform security tasks ? Select all that apply.
-	- It simplifies repetitive tasks
+	- It simplifies repetitive tasks.
+	- It enables security professionals to be more accurate.
+	- It helps security professionals work with high level of details
 
 10. 
 
