@@ -75,9 +75,15 @@
 
 
 
+## Course 1 - Week 3 (Foundations of Cybersecurity)
+
+1. What are some of the primary purposes of security frameworks ? Select three answers .
+	- Proteting PII data
+	- Managing organizational risks
+	- Aligning security business goals
 
 
-
+2. 
 
 
 
