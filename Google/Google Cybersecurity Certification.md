@@ -126,8 +126,15 @@
 
 
 2. Which of the following tasks can be performed using SIEM  tools ? Select three answers . 
-	- Provide
+	- Providing alerts for specific types of risks
+	- Proactively searching for threats
+	- Performing incident analysis
 
+3. Why might a security professional choose Google Chronicle to store security data for later
+	
+
+
+4. 
 
 
 
