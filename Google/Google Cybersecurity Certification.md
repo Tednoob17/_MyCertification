@@ -116,13 +116,17 @@
 	Laws 
 
 
-# 💫
+# 💫 
+
+## Course 1 - Week 3 (Foundations of Cybersecurity)
+
+1. Which of the following statements correctly describe logs ? Select two answers .
+	- A business might log each time an employee signs into their computer.
+	- A log is a record of events that occur within an organization's systems.
 
 
-
-
-
-
+2. Which of the following tasks can be performed using SIEM  tools ? Select three answers . 
+	- Provide
 
 
 
