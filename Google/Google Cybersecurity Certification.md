@@ -101,7 +101,10 @@
 	- it's purpose is to help manage cybersecurity risk.
 	- It consist is to help manage cybersecurity, and best practices.
 
-7. 
+7. Fill in the blank: As a security professional, you monitor the potential threats associated with <------> because they often access to sensitive information, know where to find it, and may have malicious intent.
+	disgruntled employees
+
+8. 
 
 *  * * 
 
