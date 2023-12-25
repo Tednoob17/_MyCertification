@@ -108,7 +108,10 @@
 
 	Security ethics
 
+9. Fill in the blank: The ethical of <----> involves safeguarding an organization's human resources records that contain personal details about employees.
+	privacy protection
 
+10. 
 *  * * 
 
 ## Course 2 - Week 1 (Play it Safe Manage,  Security Risk)
