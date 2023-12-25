@@ -134,7 +134,11 @@
 	It's cloud-native, which means it delivers nwe features quickly.
 
 
-4. 
+4. Fill in the blank: A security professional uses a <----> as a manual to guide operational activities.
+
+	Playbook
+
+5. 
 
 
 
