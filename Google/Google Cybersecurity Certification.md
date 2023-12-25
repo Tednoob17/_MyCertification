@@ -147,9 +147,15 @@
 	- They execute repetitive process accurately.
 
 
-7. 
+7.  How is an open-source operating system, such as Linux, different from other operating systems ?
+	It relies on a command line
+
+8. Fill in the blank: A database is a <----> of organized data stored a computer system.
+	
 
 
+
+9. 
 
 
 
