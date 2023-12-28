@@ -854,7 +854,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 	Determine how the target can be accessed
 
 
+10. What is *not* a step of practicing an attacker mindset ?
 
+	Identify ways to fix existing vulnerabilities. 
 *  *  * 
 
 
