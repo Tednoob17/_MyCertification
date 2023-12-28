@@ -965,9 +965,9 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 2.  What process is used to provide a blueprint for effective incident response ?
+	
 
-
-
+3. 
 
 
 
