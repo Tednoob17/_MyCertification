@@ -118,7 +118,7 @@
 
 # 💫 
 
-## Course 1 - Week 3 (Foundations of Cybersecurity)
+## Course 1 - Week 4 (Foundations of Cybersecurity)
 
 1. Which of the following statements correctly describe logs ? Select two answers .
 	- A business might log each time an employee signs into their computer.
@@ -158,13 +158,6 @@
 	- It simplifies repetitive tasks.
 	- It enables security professionals to be more accurate.
 	- It helps security professionals work with high level of details
-
-10. 
-
-
-
-
-
 
 
 
@@ -212,21 +205,132 @@
 
 
 
+# 🌵
+## Course 2 - Week 2 (Play it Safe Manage,  Security Risk)
+
+1. What is the purpose of security frameworks ?
+	Build plans to help mitigate risks and threats to data and privacy
+
+
+2.Fill in the blank: An employee using multi-factor authentication to verify their identity is an example  of the <----> process . 
+	authentication
+
+3. What type of social engineering attack attempts to exploit biometrics ?
+	Vishing 
+
+4. You work as a security analyst at a bank and need to ensure that customers can access their account information. Which core principle of the CIA triad are you using to confirm their data is accessible to them ?
+	Availability
+
+5. Which of the following statements accurately describe the CSF ? Select all that apply.
+	- The protect function of the CSF involves implementing policies, procedures, training, and tools to mitigate threats .
+	- The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+	- Investigating an incident to determine how the threat occured, what was affected, and where the attack originated is part of the respond function of the CSF.
+
+
+ 6. A security team has just finished addressing a recent security incident .They n
+ow conduct tests to ensure that all of heir repairs were successful .Which OWASP principle does this scenario describe ?
+	Fix security issues correctly
+
+7. What are some of the primary objectives of an internal security audit ? Select all that apply .
+
+	- Help security teams identify organizational security audit .
+	- Avoid fines due to a lack of compliance .
+	- Determine what needs to be improved in order to achieve the desired security posture . 
+
+8. Fill in the blank:  In an internal security audit, <----> refers to identifying people,assets, policies, procedures,and technologies that might impact an organization's security posture.
+	scope
+
+
+9. A security analyst perform an internal security audit.They determine that the organization needs to install surveillance cameras at various store locations.What are they working to establish ? 
+	Physical controls
+
+10.  What information is tipically communicated to stakeholders after completion of an internal security audit ? Select three answers.
+	- Existing risks that need to be addressed now or in the future.
+	- Strategies for improving security posture .
+	- A summary of the goals .
+
+
+# 🌵
+## Course 2 - Week 3 (Play it Safe Manage,  Security Risk)
+
+
+1. Which of the following statements correctly describe logs ? Select three answers.
+	- Actions such as login request are recorded in a server log.
+	- Outbound requests to the internet from within a network are recorded in a firewall log.
+	- Security teams monitor logs to identify vulnerabilities and potential data breaches.
+
+
+2. What are some of they benefits of SIEM tools? Select three answers 
+	- Deliver automated alerts 
+	- Increase efficiency 
+	- Minimize the number of logs to be manually reviewed .
+
+3. Fill in the blank: A security professional creates a dashboard that displays technical attributes about business operations called <---->, such as incoming and outgoing network traffic.
+	metrics
+
+
+4. A security team chooses to implement a SIEM tool that they will install, operate,and maintain using their own physical infrastructure.What type of tool are they using ?
+	Self-hosted
+
+
+5. You are a security professional, and you want to save time by using a SIEM tool that will be managed by a provider and only be accessible through the internet.What type of toll do you 
+   choose ?
+
+	Cloud-hosted
+
+
+6. Fill in the blank: Splunk Enterprise is a <----> tool used to retain, analyze,and search an 
+   organizational's log data to provide security information and alerts in real-time.
+	Self-hosted
+
+7. Which of the following statements accurately describe Chronicle ? Select three answers.
+	- Chronicle is designed to retain, analyze, and search data.
+	- Cloud native tools such as Chronicle are designed to take advantage of cloud computing availability.
+	- Chronicle performs data analysis.
+
+8. What are examples of open-source tools? Select two answers.
+	- Suricata 
+	- Linux
 
 
 
 
+# 🌵
+## Course 2 - Week 4 (Play it Safe Manage,  Security Risk)
 
 
+1. Which of the following statements accurately describe playbooks ? Select three answers.
+	- A playbook clarifies what tools to use in response to a security incident.
+	- A playbook is a manual that provides details about any operational action.
+	- Organizations use playbooks to ensure employees follow a consistent list of actions.
 
 
+2. Fill in the blank: A security team <----> their playbook frequently by learning from past security incidents, then refining policies and procedures .
+	updates
+
+3. Fill in the blank: Incident response playbooks outline processes for communications and <---->
+	documentation
 
 
+4.  A security analyst to stakeholders about a security breach .They provide details based on the organization's established standards.What phase of an incident response playbook does this scenario describe ?
+
+	Coordination
 
 
+5. Why is the containment phase of an incident response playbook a high priority for organizations ?
+	It helps prevent ongoing risks to critical assets and data .
 
 
+6. Fill in the blank : During the post incident activity, organizations aim to enhance their overall <----> by determining the incident's root cause and implementing security improvements.
+	security posture
 
+7. A security analyst establishes incident procedures.They also educate users on what to do in the event of a security incident .What phase of an incident playbook does this scenario describe ?
+	Preparation 
+
+8. In what ways do SIEM tools and playbooks help security teams respond to an incident? Select all that apply.
+	- SIEM alerts inform security teams of potential threats.
+	- SIEM tools analyze data.
+	- SIEM tools and playbooks works together to provice an efficient way of handling security incidents.
 
 
 *   * *
@@ -272,9 +376,48 @@
 
 
 
+# 🍥
+
+## Course 3 - Week 2 (Connect and Protect Network and Network Security)
 
 
+1. What network protocol helps data get to the right place by determining the MAC address of the next router or device on its path ? 
+	Address Resolution Protocol (`ARP`)
 
+2. Which of the following statements accurately describe wireless protocols? Select three answers
+
+	- WPA is a wireless security protocol pertaining to connecting to the internet.
+	- The Institute of Electrical and Electronics Engineers maintains `Wi-Fi` standards.
+	- The set of standards `IEEE 802.11`  is also referred to as `Wi-Fi` 
+
+3. A firewall administrator sets up a firewall that operates based on predefined rules .It is not used to keep track of information from data packets. What class of firewall does this scenario describe ?
+	Stateless
+
+
+4. Which firewall offers the most security features ?
+	Next generation firewall (NGFW)
+
+
+5. How do VPNs preserve confidentiality
+	Encrypt data in transit 
+
+6. Fill in the blank: VPN services perform encapsulation to protect sensitive data by <----> it in other data packets.
+	wrapping
+
+
+7. What network zone contains the internet and other services that outside of an organization's control ?
+	Uncontrolled
+
+8. What network zone acts as a network perimeter to the internal network by isolating servers that 
+	Demilitarized zone
+
+9.  A security analyst implements a proxy server to secure internal networks.What are some of the proxy server's primary functions ? Select all that apply.
+	- Determine whether request to connect to a website are allowed 
+	- Use public IP addresses that are different from the rest on the private network
+	- Temporarily stores data that is frequently requested by external serves
+
+10. Which of the following statements accurately describe forward and reverse proxy servers ?
+  Select three answers
 
 
 
