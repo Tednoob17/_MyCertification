@@ -955,9 +955,10 @@ How many customers live in Mountain View and work for Google Inc ?.
 
 
 
+
+
 # 🎩
 ## Course 6 - Week 1 (Sound the Alarm,  Detection)
-
 
 
 1. Which of the following statements describe security incidents and events ?
@@ -968,7 +969,7 @@ How many customers live in Mountain View and work for Google Inc ?.
 	
 
 3. 
-
+	
 
 4. 
 * * *
