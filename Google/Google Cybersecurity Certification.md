@@ -639,6 +639,10 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 8. What should you specify in the argument following the `cd` command ?
 	The directory you want to navigate  to .
 
+9. What of the following commands searches the manual page descriptions for a specified strings ?
+	apropos
+
+
 *  *  * 
 
 # 🎑
