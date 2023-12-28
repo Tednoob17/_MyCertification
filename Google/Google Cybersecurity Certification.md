@@ -608,7 +608,7 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 # 🌄
 
-## Course 4 - Week 2 (Tools of the trade, Linux and SQL)
+## Course 4 - Week 3 (Tools of the trade, Linux and SQL)
 
 
 1. What are the arguments in `cp vulnerabilities.txt  /home/analyst/projects` ? Select answers two answers.
@@ -649,14 +649,12 @@ ow conduct tests to ensure that all of heir repairs were successful .Which OWASP
 
 
 
+# 🌄
 
+## Course 4 - Week 4 (Tools of the trade, Linux and SQL)
 
-
-
-
-
-
-
+1. A security analyst queries a database related to security patches.How can SQL help this analyst with their work?
+	The analyst can efficiently find the data they need.
 
 
 
