@@ -1289,3 +1289,5 @@ print(approved_users[1])
 
 
 
+# ⚜️
+## Course 7 - Week 4 Automate Cyber security Tasks with python)
