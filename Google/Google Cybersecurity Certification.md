@@ -4,7 +4,7 @@
 ## Course 1 - Week 1 (Foundations of Cybersecurity)
 
 
-1. Fill in the blank: The purpose of <------> is to protect networks,devices,peoples and data from unauthorized access or criminal exploitation . 
+1. Fill in the blank: The purpose of <------> is to protect networks,devices,peoples and data from unauthorized access or criminal exploitation. 
 
 	Cybersecurity
 
@@ -22,7 +22,7 @@
 
 	Stealing personal information to commit fraud while impersonating a victim. 
 
-5. Fill in the blank : Am organization that is in regulatory Compliance is likely to <----->  fines .
+5. Fill in the blank : Am organization that is in regulatory Compliance is likely to <----->  fines.
 
 	avoid
 
