@@ -74,6 +74,7 @@
 	Identity and access management 
 
 10. Which domain involves conducting investigations and implementing preventive measures ?
+
 	Security operations
 
 
@@ -83,30 +84,37 @@
 ## Course 1 - Week 3 (Foundations of Cybersecurity)
 
 1. What are some of the primary purposes of security frameworks ? Select three answers .
+
 	- Proteting PII data
 	- Managing organizational risks
 	- Aligning security business goals
 
 
 2.Which of the following are core components of security frameworks ? Select two answers .
+.
 	- Implementing security processes
 	- Monitoring and communicating results
 
 3. Fill in the blank: A security professional has been tasked with implementing strict password policies on workstations to reduce the risk of password theft.This is an example of <---->.
+
 	security controls
 
 4. You are helping your security team consider risk when setting up a new software system. Using the CIA triad, you focus on confidentiality, availability, and what else ?
+
 	Integrity
 
 5. Fill in the blank: A key aspect of the CIA triad is ensuring that data is correct, <---->, and reliable.
+
 	authentic
 
 
 6. Which of the following statements accurately describe the NIST CSF ? Select all that apply.
+
 	- it's purpose is to help manage cybersecurity risk.
 	- It consist is to help manage cybersecurity, and best practices.
 
 7. Fill in the blank: As a security professional, you monitor the potential threats associated with <------> because they often access to sensitive information, know where to find it, and may have malicious intent.
+
 	disgruntled employees
 
 8. A security professional overhears two employees discussing an exciting new product that has not been announced to the public.The security professional chooses to follow company guidelines with regards to confidentiality and does not share the information about the new product with friends.Which concept does this scenario describe ?
@@ -114,9 +122,11 @@
 	Security ethics
 
 9. Fill in the blank: The ethical of <----> involves safeguarding an organization's human resources records that contain personal details about employees.
+
 	privacy protection
 
 10. You are security professional working for a state motor vehicle agency that stores drivers national identification numbers and banking information. Which ethical principle involves adhering to rules that intended to protect these types of data ?
+
 	Laws 
 
 
@@ -128,6 +138,7 @@
 ## Course 1 - Week 4 (Foundations of Cybersecurity)
 
 1. Which of the following statements correctly describe logs ? Select two answers .
+
 	- A business might log each time an employee signs into their computer.
 	- A log is a record of events that occur within an organization's systems.
 
@@ -137,8 +148,9 @@
 	- Proactively searching for threats
 	- Performing incident analysis
 
-3. Why might a security professional choose Google Chronicle to store security data for later
-	It's cloud-native, which means it delivers nwe features quickly.
+3. Why might a security professional choose Google Chronicle to store security data for later.
+
+	It's cloud-native, which means it delivers new features quickly.
 
 
 4. Fill in the blank: A security professional uses a <----> as a manual to guide operational activities.
