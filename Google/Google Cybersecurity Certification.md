@@ -1562,5 +1562,11 @@ logins = "pwashing jhill tshah"
 
 
 
+# + 
+## Course 8 week 5 (Put it to work, Prepare for cybersecurity jobs)
+
+1. Fill in the blank : A resume might also be referred to as <----->.
+	
 
 
+2. 
